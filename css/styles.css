@@ -1,0 +1,26 @@
+body {
+    background-color: #FFFBE9;
+}
+
+hr {
+    border-style: none;
+    border-top-style: groove;
+    border-color: #A4BE7B;
+    border-width: 3px;
+    width: 70%;
+}
+
+h1 {
+    color: #285430;
+}
+
+h3 {
+    color: #614124;
+}
+
+.circular {
+    border-radius: 100%;
+}
+.circle{
+    border-radius: 100%;
+}
